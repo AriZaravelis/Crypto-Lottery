@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lottery", "Lottery.pyproj", "{CFDA3C7B-0DA3-4433-8DB8-CC9AA41FD751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFDA3C7B-0DA3-4433-8DB8-CC9AA41FD751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDA3C7B-0DA3-4433-8DB8-CC9AA41FD751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEADCDAD-95E8-4F05-B651-3A1EF3956E6E}
+	EndGlobalSection
+EndGlobal
